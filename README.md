@@ -37,7 +37,7 @@ A simple **C++** program that organizes files into folders based on their extens
 3. **Compile & Run**:
     After setting up your project, compile and run the program using the following commands:
 
-        ```bash
+    ```bash
         g++ -std=c++17 -o file_organizer main.cpp
         ./file_organizer
 
