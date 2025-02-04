@@ -25,7 +25,7 @@ A simple **C++** program that organizes files into folders based on their extens
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/File-Organizer.git
+   git clone https://github.com/saurabh0772/File-Organizer.git
 
 
 2. **Set C++17 Standard**:
